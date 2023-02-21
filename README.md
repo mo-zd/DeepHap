@@ -35,7 +35,7 @@ Install dependencies within your virtual environment
 
 To use DeepHap, users can follow the instructions provided in the user manual, which is included in the repository. The repository contains the following files:
 
-    deephap.py: the main script that implements DeepHap.
+    main.py: the main script that implements DeepHap.
     user_manual.pdf: the user manual that includes instructions on how to use DeepHap.
     sample_data/: a directory that contains sample data for testing DeepHap.
 
