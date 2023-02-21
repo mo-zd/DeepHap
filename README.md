@@ -21,8 +21,8 @@ Rule-based anomaly assignment module
 ### Pre-requisites
 
 Python 3.5
-matplotlib==3.2.1,
-scipy==1.4.1.
+matplotlib==3.2.1
+scipy==1.4.1
 
 ### Set up
 Install dependencies within your virtual environment
