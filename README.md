@@ -9,9 +9,9 @@ Haplarithmisis is a powerful computational pipeline that detects haplotypes, cop
 
 #### Features
 
-    Breakpoint detection module using a two-layer long short-term memory (LSTM) model
-    Robust mode-based denoising module
-    Rule-based anomaly assignment module
+Breakpoint detection module using a two-layer long short-term memory (LSTM) model
+Robust mode-based denoising module
+Rule-based anomaly assignment module
 
 ![deephap_small](https://user-images.githubusercontent.com/91246296/220306055-78eb8480-1a0d-4390-a258-faf94d8d3198.JPG)
 
@@ -27,9 +27,9 @@ scipy==1.4.1.
 #### Set up
 Install dependencies within your virtual environment
 
- ```bash
+```bash
     pip install -r source/requirements.txt
-    ```
+```
     
 #### Usage
 
@@ -47,7 +47,7 @@ Contributions to DeepHap are welcome. Please see the CONTRIBUTING.md file for mo
 DeepHap is released under the MIT License. Please see the LICENSE file for more information.
 #### Authors
 
-    Mohsen Yazdani (msilico1@email.com)
+  Mohsen Yazdani (msilico1@email.com)
     
 #### Acknowledgments
 
