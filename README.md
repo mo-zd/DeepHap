@@ -9,9 +9,9 @@ Haplarithmisis is a powerful computational pipeline that detects haplotypes, cop
 
 ### Features
 
-Breakpoint detection module using a two-layer long short-term memory (LSTM) model
-Robust mode-based denoising module
-Rule-based anomaly assignment module
+    Breakpoint detection module using a two-layer long short-term memory (LSTM) model
+    Robust mode-based denoising module
+    Rule-based anomaly assignment module
 
 ![deephap_small](https://user-images.githubusercontent.com/91246296/220306055-78eb8480-1a0d-4390-a258-faf94d8d3198.JPG)
 
@@ -20,9 +20,9 @@ Rule-based anomaly assignment module
 
 ### Pre-requisites
 
-Python 3.5
-matplotlib==3.2.1
-scipy==1.4.1
+    Python 3.5
+    matplotlib==3.2.1
+    scipy==1.4.1
 
 ### Set up
 Install dependencies within your virtual environment
