@@ -1,4 +1,6 @@
 # DeepHap
+![_1e45051c-3812-47c2-a6c4-4c38260dfe83](https://user-images.githubusercontent.com/91246296/227033793-f3687226-77f9-4f74-9679-3e82410834b5.jpg)
+
 A Deep Learning Approach for Haplarithmisis data analysis and anomaly detection
 
 
@@ -13,7 +15,6 @@ Haplarithmisis is a powerful computational pipeline that detects haplotypes, cop
     Robust mode-based denoising module
     Rule-based anomaly assignment module
 
-![deephap_small](https://user-images.githubusercontent.com/91246296/220306055-78eb8480-1a0d-4390-a258-faf94d8d3198.JPG)
 
 ### Getting Started
 
@@ -23,6 +24,7 @@ Haplarithmisis is a powerful computational pipeline that detects haplotypes, cop
     Python 3.5
     matplotlib==3.2.1
     scipy==1.4.1
+![_1e45051c-3812-47c2-a6c4-4c38260dfe83](https://user-images.githubusercontent.com/91246296/227033672-c9ce5cca-1e17-4921-9f49-9563fa3c5810.jpg)
 
 ### Set up
 Install dependencies within your virtual environment
