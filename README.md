@@ -1,5 +1,5 @@
 # DeepHap
-![_1e45051c-3812-47c2-a6c4-4c38260dfe83](https://user-images.githubusercontent.com/91246296/227033793-f3687226-77f9-4f74-9679-3e82410834b5.jpg)
+![_1e45051c-3812-47c2-a6c4-4c38260dfe83](https://user-images.githubusercontent.com/91246296/227034145-859a89ea-3c8d-4311-93f5-9e9f38c4f77e.jpg)
 
 A Deep Learning Approach for Haplarithmisis data analysis and anomaly detection
 
