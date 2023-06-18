@@ -40,6 +40,12 @@ To use DeepHap, users can follow the instructions provided in the user manual, w
     user_manual.pdf: the user manual that includes instructions on how to use DeepHap.
     sample_data/: a directory that contains sample data for testing DeepHap.
 
+### Update V2
+
+```bash
+    python.exe .\hadi_cli.py -w 300  input_dir  output_dir
+```
+
 ### Contributing
 
 Contributions to DeepHap are welcome. Please see the CONTRIBUTING.md file for more information.
