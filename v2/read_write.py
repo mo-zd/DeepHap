@@ -10,13 +10,15 @@ class Base(object):
         self.order_dict = dict(zip([str(i) for i in range(1, 23)] + ['X', 'Y'], range(0, 24)))
 
     def get_chrs(self, df):
-        order_dict = {str(i):i-1 for i in range(1, 23)}
-        order_dict['X'] = 22
-        order_dict['Y'] = 23
+        
+        # Add NaN handling
+        df = df.dropna(subset=['Chr'])
+        
         chrs = list(set(df['Chr'].tolist()))
-        chrs = sorted(chrs, key=lambda el: order_dict[el])
+        chrs = sorted(chrs, key=lambda el: self.order_dict[el])
         self.chrs = chrs
-        return chrs    
+        return chrs
+   
 
     def concat(self, df_list):
         df = pd.concat(df_list, ignore_index=True)
